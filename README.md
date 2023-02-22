@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @1Blindy
-- 👀 I’m interested in working on improving the Roblox Discords Bot funtions.
 - 🌱 I’m currently learning C# & LUA.
 - 📫 How to reach me Discord: Blind#2899
 
